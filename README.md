@@ -1,9 +1,13 @@
 This is just simple research code, directly copied from bobcob7,
 to see if TinyGo wasm can be used for WebGL.
 
+Running demo:
+
+&nbsp; &nbsp; https://justinclift.github.io/tinygo-wasm-basic-triangle/
+
 Original source:
 
-    https://github.com/bobcob7/wasm-basic-triangle
+&nbsp; &nbsp; https://github.com/bobcob7/wasm-basic-triangle
 
 To compile the WebAssembly file:
 
